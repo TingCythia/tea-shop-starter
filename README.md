@@ -46,4 +46,4 @@ Just install and run.
 npm install
 npm run dev
 
-
+- Business inquiries: message me on GitHub (Issues tab)
